@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
-🧑‍💻 I’m a Web Designer and Web Developer <br>
+🧑‍💻 I’m a **Web Designer** && **Web Developer** <br>
 🔭 I’m currently working on **e-Learning Website** <br>
 🌱 I’m currently learning **ReactJS** <br>
 💬 Ask me about **Web Development** <br>
