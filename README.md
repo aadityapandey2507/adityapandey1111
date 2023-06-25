@@ -1,4 +1,3 @@
-<img src="https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233">
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
