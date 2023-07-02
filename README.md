@@ -8,8 +8,8 @@
 🌱 I’m currently learning **ReactJS** <br>
 💬 Ask me about **Web Development** <br>
 📩 Contact me at **pandeyaaditya2001@gmail.com** <br>
+💼 My portfolio **https://aaditya0pf0.netlify.app/** <br>
 ⚡ Fun fact is I'm a possessive learner.
-💼 My portfolio **https://aaditya0pf0.netlify.app/**
 
 
 ## 🌐 Socials:
