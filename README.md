@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)](https://linkedin.com/in/aditya-kumar-pandey-249301233)
+[![LinkedIn](https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png)](https://linkedin.com/in/aditya-kumar-pandey-249301233)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__aaditya_here)
 
 # 💻 Tech Stack:
