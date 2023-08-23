@@ -20,17 +20,19 @@
 
 # 💻 Tech Stack:
 
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<div style="display=flex;">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+  <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adityapandey1111&theme=city_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
