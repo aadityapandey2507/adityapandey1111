@@ -19,8 +19,7 @@
 [<img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="50px" height="50px">](https://instagram.com/its__aaditya_here)
 
 # 💻 Tech Stack:
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px"><img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
 <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
 <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
 <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
