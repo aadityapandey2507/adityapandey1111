@@ -19,7 +19,17 @@
 [<img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="50px" height="50px">](https://instagram.com/its__aaditya_here)
 
 # 💻 Tech Stack:
-<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="50px" height="50px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" width="80px" height="80px">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
