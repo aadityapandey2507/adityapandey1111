@@ -14,8 +14,8 @@
 
 
 ## 🌐 Socials:
-<img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="20px" height="20px">
-[![LinkedIn](https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png)](https://linkedin.com/in/aditya-kumar-pandey-249301233)
+
+[![LinkedIn]<img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="20px" height="20px">](https://linkedin.com/in/aditya-kumar-pandey-249301233)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__aaditya_here)
 
 # 💻 Tech Stack:
