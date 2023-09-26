@@ -38,7 +38,7 @@
       <img src="https://img.icons8.com/?size=512&id=9nLaR5KFGjN0&format=png" width="60px" height="60px">
       <img src="https://img.icons8.com/?size=512&id=17842&format=png" width="60px" height="60px">
       <img src="https://img.icons8.com/?size=512&id=63208&format=png" width="60px" height="60px">
-      <img src="https://icons8.com/icon/pCvIfmctRaY8/flutter" width="60px" height="60px">
+      <img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" width="60px" height="60px">
   </div>
 
 # 📊 GitHub Stats:
