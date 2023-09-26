@@ -39,6 +39,7 @@
       <img src="https://img.icons8.com/?size=512&id=17842&format=png" width="60px" height="60px">
       <img src="https://img.icons8.com/?size=512&id=63208&format=png" width="60px" height="60px">
       <img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" width="60px" height="60px">
+      <img src="https://img.icons8.com/?size=512&id=o6OvAxG0nzTH&format=png" width="60px" height="60px">
   </div>
 
 # 📊 GitHub Stats:
