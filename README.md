@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQEB29IvESgjoQ/profile-displaybackgroundimage-shrink_350_1400/0/1695474304727?e=1701302400&v=beta&t=OPqYitcvP7PsNNCPHcCLaVU7LpYw0fYbybjR_EXtHkI)
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
