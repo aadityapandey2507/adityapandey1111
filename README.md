@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
-🧑‍💻 I’m a **Web Designer** and **Web Developer** <br>
+🧑‍💻 I’m a **Software Developer** and **Designer** <br>
 🔭 I’m currently working on **e-Learning Website** <br>
 🌱 I’m currently learning **Flutter & React-Native** <br>
 💬 Ask me about **ReactJS** <br>
