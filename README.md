@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFM5PzEnt696A/profile-displaybackgroundimage-shrink_350_1400/0/1697690498542?e=1703116800&v=beta&t=xjbaKhAEXNEMWxNQEpMVFOiD_8r8SXaDPZpxMY0NEeA)
 ![Aditya Kumar Pandey (2)](https://github.com/adityapandey1111/adityapandey1111/assets/114282369/4752d150-e832-4bf2-b3cc-a8af7ff89f33)
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey</h1>
