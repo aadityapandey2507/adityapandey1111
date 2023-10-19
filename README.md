@@ -1,15 +1,14 @@
 ![Aditya Kumar Pandey (2)](https://github.com/adityapandey1111/adityapandey1111/assets/114282369/4752d150-e832-4bf2-b3cc-a8af7ff89f33)
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">Associate UI Developer at TransUnion</h3>
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
 🧑‍💻 I’m a **Software Developer** and **Designer** <br>
-🔭 I’m currently working on **e-Learning Website** <br>
 🌱 I’m currently learning **Flutter & React-Native** <br>
 💬 Ask me about **ReactJS** <br>
-📩 Contact me at **pandeyaaditya2001@gmail.com** <br>
+📩 Contact me at **pandeyaaditya.in@gmail.com** <br>
 💼 My portfolio **[here](https://aaditya0pf0.netlify.app)** <br>
 ⚡ Fun fact is I'm a possessive learner.
 
