@@ -1,4 +1,4 @@
-![Aditya Kumar Pandey (2)](https://github.com/adityapandey1111/adityapandey1111/assets/114282369/4752d150-e832-4bf2-b3cc-a8af7ff89f33)
+![Aditya Kumar Pandey](https://github.com/adityapandey1111/adityapandey1111/assets/114282369/b10bab61-a163-448d-aa7b-2d275831ea69)
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey</h1>
 <h3 align="center">Associate UI Developer at TransUnion</h3>
