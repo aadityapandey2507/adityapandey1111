@@ -1,7 +1,7 @@
 ![Aditya Kumar Pandey](https://github.com/adityapandey1111/adityapandey1111/assets/114282369/b10bab61-a163-448d-aa7b-2d275831ea69)
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Pandey</h1>
-<h3 align="center">Associate UI Developer at TransUnion</h3>
+<h3 align="center">Associate Software Developer at TransUnion</h3>
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
