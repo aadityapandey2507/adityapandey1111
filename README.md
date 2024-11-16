@@ -18,7 +18,6 @@
 <div >
       <img src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png" width="60px" height="60px">
       <img src="https://img.icons8.com/?size=512&id=l75OEUJkPAk4&format=png" width="60px" height="60px">
-      <img src="https://img.icons8.com/?size=512&id=2T6TKY6whzgV&format=png" width="60px" height="60px">
       <img src="https://img.icons8.com/?size=512&id=v8RpPQUwv0N8&format=png" width="60px" height="60px">
       <img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" width="60px" height="60px">
       <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" width="60px" height="60px">
