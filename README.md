@@ -15,8 +15,6 @@
 ## 🌐 Socials:
 
 [<img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="50px" height="50px">](https://linkedin.com/in/aditya-kumar-pandey-249301233)
-[<img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="50px" height="50px">](https://instagram.com/its__aaditya_here)
-[<img src="https://img.icons8.com/?size=512&id=B2kE1iYkRIiw&format=png" width="50px" height="50px">](https://aaditya0pf0.netlify.app/)
 
 ## 🖥️ Tech Stack:
 <div >
