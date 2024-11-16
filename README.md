@@ -10,7 +10,6 @@
 💬 Ask me about **ReactJS** <br>
 📩 Contact me at **pandeyaaditya.in@gmail.com** <br>
 💼 My portfolio **[here](https://aaditya0pf0.netlify.app)** <br>
-⚡ Fun fact is I'm a possessive learner.
 
 
 ## 🌐 Socials:
